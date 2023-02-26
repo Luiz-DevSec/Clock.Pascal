@@ -1,7 +1,6 @@
 program clock;
 { --------
-  Analog clock demo for Pascal N-IDE
-  by: Mr Bee -- @pak_lebah
+  contactdevopsbrasil@gmail.com
 }
 uses
   CRT, Graph, SysUtils, DOS, Math;
